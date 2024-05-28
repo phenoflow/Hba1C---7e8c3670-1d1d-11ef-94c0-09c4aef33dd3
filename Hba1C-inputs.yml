@@ -1,0 +1,63 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/hba1c-glucose---primary.py
+inputModule3:
+  class: File
+  path: python/hba1c-hemoglobin---primary.py
+inputModule4:
+  class: File
+  path: python/hba1c-glycosylated---primary.py
+inputModule5:
+  class: File
+  path: python/hba1c-control---primary.py
+inputModule6:
+  class: File
+  path: python/hba1c-standardised---primary.py
+inputModule7:
+  class: File
+  path: python/hba1c-mellitus---primary.py
+inputModule8:
+  class: File
+  path: python/hba1c-result---primary.py
+inputModule9:
+  class: File
+  path: python/diabetic-hba1c---primary.py
+inputModule10:
+  class: File
+  path: python/hba1c-estimation---primary.py
+inputModule11:
+  class: File
+  path: python/hba1c-level---primary.py
+inputModule12:
+  class: File
+  path: python/hba1c-borderline---primary.py
+inputModule13:
+  class: File
+  path: python/hba1c-fasting---primary.py
+inputModule14:
+  class: File
+  path: python/hba1c-raised---primary.py
+inputModule15:
+  class: File
+  path: python/hba1c-target---primary.py
+inputModule16:
+  class: File
+  path: python/hba1c-value---primary.py
+inputModule17:
+  class: File
+  path: python/hba1c-laboratory---primary.py
+inputModule18:
+  class: File
+  path: python/hba1c-measurement---primary.py
+inputModule19:
+  class: File
+  path: python/hba1c-greater---primary.py
+inputModule20:
+  class: File
+  path: python/hba1c-indicating---primary.py
+inputModule21:
+  class: File
+  path: python/output-cases.py
